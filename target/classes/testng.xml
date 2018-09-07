@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteOne" parallel="tests">
+  
+  <test name="TestOne">
+    <classes>
+       <class name="pfPack.tests.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
