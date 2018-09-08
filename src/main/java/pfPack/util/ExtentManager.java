@@ -9,7 +9,7 @@ import com.relevantcodes.extentreports.ExtentReports;
 public class ExtentManager {
 	
 public static ExtentReports getInstance() {
-		
+		/*
 		Date date = new Date();		
 		
 		String originalDateFormat = date.toString();
@@ -17,8 +17,9 @@ public static ExtentReports getInstance() {
 		String modifiedDateFormat = originalDateFormat.replace(":","_").replace(" ","_");
 
 		String FileName = modifiedDateFormat+".html";
+		*/
 		
-		String FilePath = "reports//"+FileName;
+		String FilePath = "reports//"+"ExtentReport.html";
 		
 		ExtentReports report = new ExtentReports(FilePath, true, DisplayOrder.NEWEST_FIRST);
 		
