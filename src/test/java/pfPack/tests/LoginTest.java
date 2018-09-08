@@ -10,6 +10,7 @@ import pfPack.tests.base.BaseTest;
 import pfPack.util.Constants;
 
 //Developed by Arun Motoori
+//This framework is provided by www.qafox.com
 
 public class LoginTest extends BaseTest {
 	
