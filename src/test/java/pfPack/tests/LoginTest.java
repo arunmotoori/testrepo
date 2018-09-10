@@ -15,6 +15,7 @@ import pfPack.util.Constants;
 
 public class LoginTest extends BaseTest {
 	
+	//The following is the test to verify the login functionality of the application
 	@Test
 	public void testLogin() {
 		
