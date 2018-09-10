@@ -42,7 +42,7 @@ public class LoginTest extends BaseTest {
 		 
 	}
 	
-	
+	//Example comment
 	@AfterMethod
 	public void testClosure() {
 		
