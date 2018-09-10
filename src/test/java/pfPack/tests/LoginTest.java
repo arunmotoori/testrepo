@@ -42,6 +42,7 @@ public class LoginTest extends BaseTest {
 		 
 	}
 	
+	//Closure method to close the Extent reports and quite the open browser windows
 	@AfterMethod
 	public void testClosure() {
 		
