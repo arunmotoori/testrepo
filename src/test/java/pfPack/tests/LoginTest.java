@@ -9,7 +9,8 @@ import pfPack.pages.LaunchPage;
 import pfPack.tests.base.BaseTest;
 import pfPack.util.Constants;
 
-// XYZ COMMENT
+// ABC COMMENT
+// New comment
 
 public class LoginTest extends BaseTest {
 	
