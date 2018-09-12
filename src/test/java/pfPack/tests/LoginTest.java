@@ -9,10 +9,6 @@ import pfPack.pages.LaunchPage;
 import pfPack.tests.base.BaseTest;
 import pfPack.util.Constants;
 
-//Developed by Arun Motoori
-//This framework is provided by www.qafox.com
-//This is a LoginTest class
-
 public class LoginTest extends BaseTest {
 	
 	@Test
