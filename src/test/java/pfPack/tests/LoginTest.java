@@ -15,7 +15,6 @@ import pfPack.util.Constants;
 
 public class LoginTest extends BaseTest {
 	
-	//The following is the test method to verify the login functionality of the application - def
 	@Test
 	public void testLogin() {
 		
@@ -42,7 +41,6 @@ public class LoginTest extends BaseTest {
 		 
 	}
 	
-	//Example comment updated
 	@AfterMethod
 	public void testClosure() {
 		
