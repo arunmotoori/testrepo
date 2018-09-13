@@ -10,7 +10,7 @@ import pfPack.tests.base.BaseTest;
 import pfPack.util.Constants;
 
 // ABC COMMENT
-// New comment
+// Comment updated
 
 public class LoginTest extends BaseTest {
 	
