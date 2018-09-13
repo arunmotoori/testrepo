@@ -17,7 +17,7 @@ public class HomePage extends BasePage {
 	@FindBy(css="span[class^='zicon-apps-chat']")
 	public WebElement Cliq;
 	
-	@FindBy(css="span[class^='zicon-apps-crmmm']")
+	@FindBy(css="span[class^='zicon-apps-crm']")
 	public WebElement CRM;
 	
 	@FindBy(css="span[class^='zicon-apps-mail']")
