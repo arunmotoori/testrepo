@@ -13,6 +13,8 @@ import pfPack.util.Constants;
 
 public class LoginTest extends BaseTest {
 	
+	//This is a testLogin() method
+	
 	@Test
 	public void testLogin() {
 		
